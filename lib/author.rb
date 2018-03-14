@@ -4,4 +4,5 @@ class Author
   def initliaze(:name)
     @name = name
   end
+  
 end
