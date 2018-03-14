@@ -1,0 +1,2 @@
+class aAtist
+end
